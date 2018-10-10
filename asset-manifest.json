@@ -1,7 +1,7 @@
 {
   "main.css": "/suurv/static/css/main.cb93de55.chunk.css",
-  "main.js": "/suurv/static/js/main.b862ad4f.chunk.js",
-  "main.js.map": "/suurv/static/js/main.b862ad4f.chunk.js.map",
+  "main.js": "/suurv/static/js/main.62a3b64b.chunk.js",
+  "main.js.map": "/suurv/static/js/main.62a3b64b.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/suurv/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/suurv/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/suurv/static/js/runtime~main.29feb82e.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/suurv/static/media/logo.ee7cd8ed.svg",
   "static/css/main.cb93de55.chunk.css.map": "/suurv/static/css/main.cb93de55.chunk.css.map",
   "index.html": "/suurv/index.html",
-  "precache-manifest.f29581de2d432be030f52cc1370a0769.js": "/suurv/precache-manifest.f29581de2d432be030f52cc1370a0769.js",
+  "precache-manifest.ca81d9e78d3899ec16ea828ae865291d.js": "/suurv/precache-manifest.ca81d9e78d3899ec16ea828ae865291d.js",
   "service-worker.js": "/suurv/service-worker.js"
 }
